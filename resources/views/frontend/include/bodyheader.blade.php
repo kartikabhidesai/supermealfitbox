@@ -6,7 +6,7 @@
                 <div class="left-header">
                     <!-- Logo desktop -->		
                     <div class="logo">
-                        <a href="index-2.html"><img src="{{ ('public/images/icons/logo-02.png') }}" alt="IMG-LOGO"></a>
+                        <a href="index-2.html"><img src="{{ ('public/images/logo.jpg') }}" alt="IMG-LOGO"></a>
                     </div>	
                 </div>
                 <div class="pull-right">

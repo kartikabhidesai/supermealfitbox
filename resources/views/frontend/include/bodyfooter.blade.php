@@ -4,18 +4,18 @@
             <div class="footer-col1 p-b-50">
                 <div class="p-b-36">
                     <span class="txt-m-109 cl3">
-                        Contact Our Farm
+                        Contact Us
                     </span>
                 </div>
 
                 <p class="txt-s-101 cl6 size-w-10 p-b-16">
-                    There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration
+                    There are many ways to contact us. you can email, call or message us.
                 </p>
 
                 <ul>
                     <li class="txt-s-101 cl6 flex-t p-b-10">
                         <span class="size-w-11">
-                            <img src="{{ url('public/images/icons/icon-mail.png') }}" alt="ICON-MAIL">
+                            <i class="fa fa-envelope" aria-hidden="true"></i>
                         </span>
 
                         <span class="size-w-12 p-t-1">
@@ -25,21 +25,39 @@
 
                     <li class="txt-s-101 cl6 flex-t p-b-10">
                         <span class="size-w-11">
-                            <img src="{{ url('public/images/icons/icon-pin.png') }}" alt="ICON-MAIL">
+                            <i class="fa fa-map-marker" aria-hidden="true"></i>
                         </span>
 
                         <span class="size-w-12 p-t-1">
-                            No 40 Baria Sreet 133/2, NewYork
+                            Bhavanagar
                         </span>
                     </li>
 
                     <li class="txt-s-101 cl6 flex-t p-b-10">
                         <span class="size-w-11">
-                            <img src="{{ url('public/images/icons/icon-phone.png') }}" alt="ICON-MAIL">
+                            <i class="fa fa-phone" aria-hidden="true"></i>
                         </span>
 
                         <span class="size-w-12 p-t-1">
-                            (785) 977 5767
+                            + 91 96 97 98 68 98
+                        </span>
+                    </li>
+                    <li class="txt-s-101 cl6 flex-t p-b-10">
+                        <span class="size-w-11">
+                            <i class="fa fa-instagram" aria-hidden="true"></i>
+                        </span>
+
+                        <span class="size-w-12 p-t-1">
+                            fitbox_bhavnagar
+                        </span>
+                    </li>
+                    <li class="txt-s-101 cl6 flex-t p-b-10">
+                        <span class="size-w-11">
+                            <i class="fa fa-facebook-square" aria-hidden="true"></i>
+                        </span>
+
+                        <span class="size-w-12 p-t-1">
+                            fitboxbhavnagar
                         </span>
                     </li>
                 </ul>
@@ -162,7 +180,7 @@
 
         <div class="flex-w flex-sb-m bo-t-1 bocl14 p-tb-14">
             <span class="txt-s-101 cl9 p-tb-10 p-r-29">
-                Copyright © 2017 Organive. All rights reserved.
+                Copyright © {{ date('Y') }} Food Meal Fit Box. All rights reserved.
             </span>
 
             <div class="flex-w flex-m">
