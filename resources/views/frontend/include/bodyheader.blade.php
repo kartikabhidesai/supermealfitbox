@@ -9,60 +9,32 @@
                         <a href="index-2.html"><img src="{{ ('public/images/icons/logo-02.png') }}" alt="IMG-LOGO"></a>
                     </div>	
                 </div>
-
                 <div class="pull-right">
                     <!-- Menu desktop -->
                     <div class="menu-desktop">
                         <ul class="main-menu">
                             <li class="active-menu">
                                 <a href="{{ route('home') }}">home</a>
-                                <!--                                <ul class="sub-menu">
-                                                                    <li><a href="index-2.html">Homepage 1</a></li>
-                                                                    <li><a href="home-02.html">Homepage 2</a></li>
-                                                                    <li><a href="home-03.html">Homepage 3</a></li>
-                                                                    <li><a href="home-04.html">Homepage 4</a></li>
-                                                                    <li><a href="home-05.html">Homepage 5</a></li>
-                                                                    <li><a href="home-06.html">Homepage 6</a></li>
-                                                                </ul>-->
                             </li>
-
-                            <li>
-                                <a href="{{ route('aboutus') }}">about Us</a>
+                            <li class="active-menu">
+                                <a href="{{ route('home') }}">menu</a>
+                                <ul class="sub-menu">
+                                    <li><a href="{{ route('ketodiet') }}">keto diet</a></li>
+                                    <li><a href="{{ route('musclegain') }}">muscle gain</a></li>
+                                    <li><a href="{{ route('healthyjuice') }}">healthy juice</a></li>
+                                    <li><a href="{{ route('salad') }}">salad</a></li>
+                                    <li><a href="{{ route('customizemeal') }}">customize meal</a></li>
+                                    <li><a href="{{ route('smoothies') }}">smoothies</a></li>
+                                </ul>
                             </li>
-
-                            <li>
-                                <a href="{{ route('ketodiet') }}">keto diet</a>
-                            </li>
-
-                            <li>
-                                <a href="{{ route('musclegain') }}">muscle gain</a>
-                            </li>
-
-                            <li>
-                                <a href="{{ route('healthyjuice') }}">healthy juice</a>
-                            </li>
-
-                            <li>
-                                <a href="{{ route('salad') }}">salad</a>
-                            </li>
-                            <li>
-                                <a href="{{ route('customizemeal') }}">customize meal</a>
-                            </li>
-                            <li>
-                                <a href="{{ route('smoothies') }}">smoothies</a>
-                            </li>
-                            <li>
-                                <a href="{{ route('contactus') }}">contact us</a>
-                            </li>
+                            <li><a href="{{ route('aboutus') }}">about Us</a></li>
+                            <li><a href="{{ route('contactus') }}">contact us</a></li>
                         </ul>
                     </div>
                 </div>
-
-
             </nav>
         </div>	
     </div>
-
     <!-- Header Mobile -->
     <div class="wrap-header-mobile">
         <!-- Logo moblie -->		

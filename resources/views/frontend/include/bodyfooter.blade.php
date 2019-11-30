@@ -1,4 +1,4 @@
-<footer class="bg0">
+<footer class="bg12">
     <div class="container">
         <div class="wrap-footer flex-w p-t-83 p-b-12">
             <div class="footer-col1 p-b-50">
