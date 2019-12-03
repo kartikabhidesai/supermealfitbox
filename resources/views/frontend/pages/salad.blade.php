@@ -91,7 +91,7 @@
         <div class="row  p-t-15 p-b-15">
 
             <div class="col-md-auto container bg1 txt-m-501">
-                <ul class="text-left">
+                <ul class="text-left" style="color: white">
                     <li class="p-t-15"><i class="fa fa-leaf text-success" aria-hidden="true"></i></i> Best Therapy For Weight Lose.</li>
                     <li class="p-t-10"><i class="fa fa-leaf text-success" aria-hidden="true"></i></i> A daily salad will Aid your in take of health fats.</li>
                     <li class="p-t-10"><i class="fa fa-leaf text-success" aria-hidden="true"></i></i> Build strong bones.</li>

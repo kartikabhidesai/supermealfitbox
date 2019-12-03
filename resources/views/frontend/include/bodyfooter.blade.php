@@ -1,17 +1,15 @@
 <footer class="bg12">
     <div class="container">
-        <div class="wrap-footer flex-w p-t-83 p-b-12">
-            <div class="footer-col1 p-b-50">
-                <div class="p-b-36">
+        <div class="wrap-footer flex-w row">
+            <div class="footer-col3 p-b-10 p-t-10 col-md-3">
+                <img style="height: 200px" src="{{ url('public/images/logo-fitbox.png') }}" alt="IMG">
+            </div>
+            <div class="footer-col3 p-b-10 p-t-30 p-l-50 col-md-3">
+                <div class="p-b-30">
                     <span class="txt-m-109 cl3">
                         Contact Us
                     </span>
                 </div>
-
-                <p class="txt-s-101 cl6 size-w-10 p-b-16">
-                    There are many ways to contact us. you can email, call or message us.
-                </p>
-
                 <ul>
                     <li class="txt-s-101 cl6 flex-t p-b-10">
                         <span class="size-w-11">
@@ -42,6 +40,15 @@
                             + 91 96 97 98 68 98
                         </span>
                     </li>
+                </ul>
+            </div>
+            <div class="footer-col3 p-b-10 p-t-30 p-l-50 col-md-3">
+                <div class="p-b-30">
+                    <span class="txt-m-109 cl3">
+                        Follow Us
+                    </span>
+                </div>
+                <ul>
                     <li class="txt-s-101 cl6 flex-t p-b-10">
                         <span class="size-w-11">
                             <i class="fa fa-instagram" aria-hidden="true"></i>
@@ -60,149 +67,77 @@
                             fitboxbhavnagar
                         </span>
                     </li>
+                    <li class="txt-s-101 cl6 flex-t p-b-10">
+                        <span class="size-w-11">
+                            <i class="fa fa-twitter-square" aria-hidden="true"></i>
+                        </span>
+
+                        <span class="size-w-12 p-t-1">
+                            fitboxbhavnagar
+                        </span>
+                    </li>
                 </ul>
             </div>
-
-            <div class="footer-col2 p-b-50">
-                <div class="p-b-36">
+            <div class="footer-col3 p-b-10 p-t-30 col-md-3">
+                <div class="p-b-30 text-center">
                     <span class="txt-m-109 cl3">
-                        Information
+                        My Menu
                     </span>
                 </div>
+                <div class="row">
+                    <div class="col-md-7">
+                        <ul>
+                            <li class="p-b-10">
+                                <a href="{{ route('ketodiet') }}" class="txt-s-101 cl6 hov-cl10 trans-04 p-tb-5">
+                                    customize meal
 
-                <ul>
-                    <li class="p-b-16">
-                        <a href="#" class="txt-s-101 cl6 hov-cl10 trans-04 p-tb-5">
-                            About our shop
-                        </a>
-                    </li>
+                                </a>
+                            </li>
 
-                    <li class="p-b-16">
-                        <a href="#" class="txt-s-101 cl6 hov-cl10 trans-04 p-tb-5">
-                            Top sellers
-                        </a>
-                    </li>
+                            <li class="p-b-10">
+                                <a href="{{ route('musclegain') }}" class="txt-s-101 cl6 hov-cl10 trans-04 p-tb-5">
+                                    muscle gain
 
-                    <li class="p-b-16">
-                        <a href="#" class="txt-s-101 cl6 hov-cl10 trans-04 p-tb-5">
-                            Our blog
-                        </a>
-                    </li>
+                                </a>
+                            </li>
 
-                    <li class="p-b-16">
-                        <a href="#" class="txt-s-101 cl6 hov-cl10 trans-04 p-tb-5">
-                            New products
-                        </a>
-                    </li>
+                            <li class="p-b-10">
+                                <a href="{{ route('healthyjuice') }}" class="txt-s-101 cl6 hov-cl10 trans-04 p-tb-5">
+                                    healthy juice
 
-                    <li class="p-b-16">
-                        <a href="#" class="txt-s-101 cl6 hov-cl10 trans-04 p-tb-5">
-                            Secure shopping
-                        </a>
-                    </li>
-                </ul>
-            </div>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-md-5">
+                        <ul>
+                            <li class="p-b-10">
+                                <a href="{{ route('salad') }}" class="txt-s-101 cl6 hov-cl10 trans-04 p-tb-5">
+                                    salad
 
-            <div class="footer-col3 p-b-50">
-                <div class="p-b-36">
-                    <span class="txt-m-109 cl3">
-                        My Account
-                    </span>
-                </div>
+                                </a>
+                            </li>
 
-                <ul>
-                    <li class="p-b-16">
-                        <a href="#" class="txt-s-101 cl6 hov-cl10 trans-04 p-tb-5">
-                            My account
-                        </a>
-                    </li>
-
-                    <li class="p-b-16">
-                        <a href="#" class="txt-s-101 cl6 hov-cl10 trans-04 p-tb-5">
-                            Discount
-                        </a>
-                    </li>
-
-                    <li class="p-b-16">
-                        <a href="#" class="txt-s-101 cl6 hov-cl10 trans-04 p-tb-5">
-                            Personal information
-                        </a>
-                    </li>
-
-                    <li class="p-b-16">
-                        <a href="#" class="txt-s-101 cl6 hov-cl10 trans-04 p-tb-5">
-                            My address
-                        </a>
-                    </li>
-
-                    <li class="p-b-16">
-                        <a href="#" class="txt-s-101 cl6 hov-cl10 trans-04 p-tb-5">
-                            Order history
-                        </a>
-                    </li>
-                </ul>
-            </div>
-
-            <div class="footer-col4 p-t-8 p-b-50">
-                <div class="bo-all-3 bocl17 flex-col-c-m p-rl-28 p-t-17 p-b-20">
-                    <a href="#" class="wrap-pic-max-s">
-                        <img src="{{ url('public/images/icons/logo-03.png') }}" alt="LOGO">
-                    </a>
-
-                    <p class="txt-s-101 cl6 txt-center p-t-23">
-                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem
-                    </p>
-
-                    <div class="flex-w flex-c-m p-t-20">
-                        <a href="#" class="wrap-pic-max-s pos-relative lh-00 hov6 size-h-4 m-all-6">
-                            <img class="hov6-child1 trans-04" src="{{ url('public/images/icons/icon-instagram.png') }}" alt="instagram">
-                            <img class="ab-t-l hov6-child2 trans-04" src="{{ url('public/images/icons/icon-instagram2.png') }}" alt="instagram">
-                        </a>
-
-                        <a href="#" class="wrap-pic-max-s pos-relative lh-00 hov6 size-h-4 m-all-6">
-                            <img class="hov6-child1 trans-04" src="{{ url('public/images/icons/icon-twitter.png') }}" alt="twitter">
-                            <img class="ab-t-l hov6-child2 trans-04" src="{{ url('public/images/icons/icon-twitter2.png') }}" alt="twitter">
-                        </a>
-
-                        <a href="#" class="wrap-pic-max-s pos-relative lh-00 hov6 size-h-4 m-all-6">
-                            <img class="hov6-child1 trans-04" src="{{ url('public/images/icons/icon-google.png') }}" alt="google">
-                            <img class="ab-t-l hov6-child2 trans-04" src="{{ url('public/images/icons/icon-google2.png') }}" alt="google">
-                        </a>
-
-                        <a href="#" class="wrap-pic-max-s pos-relative lh-00 hov6 size-h-4 m-all-6">
-                            <img class="hov6-child1 trans-04" src="{{ url('public/images/icons/icon-facebook.png') }}" alt="facebook">
-                            <img class="ab-t-l hov6-child2 trans-04" src="{{ url('public/images/icons/icon-facebook2.png') }}" alt="facebook">
-                        </a>
+                            <li class="p-b-10">
+                                <a href="customizemeal" class="txt-s-101 cl6 hov-cl10 trans-04 p-tb-5">
+                                    keto diet
+                                </a>
+                            </li>
+                            <li class="p-b-10">
+                                <a href="{{ route('smoothies') }}" class="txt-s-101 cl6 hov-cl10 trans-04 p-tb-5">
+                                    smoothies
+                                </a>
+                            </li>
+                        </ul>
                     </div>
                 </div>
             </div>
         </div>
-
-        <div class="flex-w flex-sb-m bo-t-1 bocl14 p-tb-14">
-            <span class="txt-s-101 cl9 p-tb-10 p-r-29">
-                Copyright © {{ date('Y') }} Food Meal Fit Box. All rights reserved.
+        <div class="flex-w flex-sb-m bo-t-1 bocl14 p-tb-10">
+            <span class="txt-s-101 cl9 p-tb-5 p-r-29">
+                Copyright © {{ date('Y') }} Super Meal Fit Box. All rights reserved.
             </span>
-
             <div class="flex-w flex-m">
-                <a href="#" class="m-r-29 m-tb-10">
-                    <img src="{{ url('public/images/icons/icon-pay-01.png') }}" alt="ICON-PAY">
-                </a>
-
-                <a href="#" class="m-r-29 m-tb-10">
-                    <img src="{{ url('public/images/icons/icon-pay-02.png') }}" alt="ICON-PAY">
-                </a>
-
-                <a href="#" class="m-r-29 m-tb-10">
-                    <img src="{{ url('public/images/icons/icon-pay-03.png') }}" alt="ICON-PAY">
-                </a>
-
-                <a href="#" class="m-r-29 m-tb-10">
-                    <img src="{{ url('public/images/icons/icon-pay-04.png') }}" alt="ICON-PAY">
-                </a>
-
-                <a href="#">
-                    <img src="{{ url('public/images/icons/icon-pay-05.png') }}" alt="ICON-PAY">
-                </a>
             </div>
         </div>
     </div>

@@ -492,7 +492,9 @@ Input, textarea : 14px/1.6 'Lato-Regular','Lato-Light', Arial, sans-serif;
   color: #fff;
 }
 
-
+a:hover {
+  color: green !important;
+}
 /*---------------------------------------------*/
 .sub-menu {
   list-style-type: none;
@@ -1200,7 +1202,7 @@ Input, textarea : 14px/1.6 'Lato-Regular','Lato-Light', Arial, sans-serif;
 /*//////////////////////////////////////////////////////////////////
 [ RS RevoSlide 2 ]*/
 
-#rev_slider_2 .persephone .tp-bullet {
+#rev_slider_2 .persephone  {
   display: -webkit-box;
   display: -webkit-flex;
   display: -moz-box;
@@ -1216,26 +1218,26 @@ Input, textarea : 14px/1.6 'Lato-Regular','Lato-Light', Arial, sans-serif;
   box-sizing: border-box;
 }
 
-#rev_slider_2 .persephone .tp-bullet:hover {
+#rev_slider_2 .persephone  {
   background: transparent;
 }
 
-#rev_slider_2 .persephone .tp-bullet.selected {
+#rev_slider_2 .persephone  {
   background: transparent;
 }
 
-#rev_slider_2 .persephone .tp-bullet .tp-bullet-inner {
+#rev_slider_2 .persephone{
   width: 100%;
   height: 3px;
   background: #e6e6e6;
 }
 
 
-#rev_slider_2 .persephone .tp-bullet:hover .tp-bullet-inner {
+#rev_slider_2 .persephone{
   background: #81b03f;
 }
 
-#rev_slider_2 .persephone .tp-bullet.selected .tp-bullet-inner {
+#rev_slider_2 .persephone{
   background: #81b03f;
 }
 
@@ -1261,7 +1263,7 @@ Input, textarea : 14px/1.6 'Lato-Regular','Lato-Light', Arial, sans-serif;
 
 /*//////////////////////////////////////////////////////////////////
 [ RS RevoSlide 3 ]*/
-#rev_slider_3 .hephaistos .tp-bullet {
+#rev_slider_3 .hephaistos{
   width: 18px;
   height: 18px;
   position: absolute;
@@ -1273,8 +1275,8 @@ Input, textarea : 14px/1.6 'Lato-Regular','Lato-Light', Arial, sans-serif;
   box-shadow: 0px 0px 0px 4px rgba(255,255,255, 0.0);
 }
 
-#rev_slider_3 .hephaistos .tp-bullet.selected, 
-#rev_slider_3 .hephaistos .tp-bullet:hover {
+#rev_slider_3 .hephaistos, 
+#rev_slider_3 .hephaistos {
   background: rgba(255,255,255,0.6);
   box-shadow: 0px 0px 0px 4px rgba(255,255,255, 0.2);
 }
@@ -1289,7 +1291,7 @@ Input, textarea : 14px/1.6 'Lato-Regular','Lato-Light', Arial, sans-serif;
 /*//////////////////////////////////////////////////////////////////
 [ RS RevoSlide 4 ]*/
 
-#rev_slider_4 .hermes .tp-bullet {
+#rev_slider_4 .hermes {
   overflow: hidden;
   border-radius: 50%;
   width: 20px;
@@ -1302,15 +1304,15 @@ Input, textarea : 14px/1.6 'Lato-Regular','Lato-Light', Arial, sans-serif;
   position: absolute;
 }
 
-#rev_slider_4 .hermes .tp-bullet:hover {
+#rev_slider_4 .hermes {
   background-color: #fff;
 }
 
-#rev_slider_4 .hermes .tp-bullet.selected {
+#rev_slider_4 .hermes {
   background-color: #fff;
 }
 
-#rev_slider_4 .hermes .tp-bullet::after {display: none;}
+#rev_slider_4 .hermes::after {display: none;}
 
 /*---------------------------------------------*/
 #rev_slider_4 .layer1 {
@@ -1346,8 +1348,8 @@ Input, textarea : 14px/1.6 'Lato-Regular','Lato-Light', Arial, sans-serif;
 
 /*//////////////////////////////////////////////////////////////////
 [ RS RevoSlide 5 ]*/
-#rev_slider_6 .hephaistos .tp-bullet,
-#rev_slider_5 .hephaistos .tp-bullet {
+#rev_slider_6 .hephaistos .tp-bullets,
+#rev_slider_5 .hephaistos .tp-bullets {
   width: 14px;
   height: 14px;
   position: absolute;
@@ -1359,10 +1361,10 @@ Input, textarea : 14px/1.6 'Lato-Regular','Lato-Light', Arial, sans-serif;
   box-shadow: none;
 }
 
-#rev_slider_6 .hephaistos .tp-bullet.selected, 
-#rev_slider_6 .hephaistos .tp-bullet:hover,
-#rev_slider_5 .hephaistos .tp-bullet.selected, 
-#rev_slider_5 .hephaistos .tp-bullet:hover {
+#rev_slider_6 .hephaistos .tp-bullets.selected, 
+#rev_slider_6 .hephaistos .tp-bullets:hover,
+#rev_slider_5 .hephaistos .tp-bullets.selected, 
+#rev_slider_5 .hephaistos .tp-bullets:hover {
   -webkit-transform: scale(1.2);
   -moz-transform: scale(1.2);
   -ms-transform: scale(1.2);

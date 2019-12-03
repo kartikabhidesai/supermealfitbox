@@ -1,12 +1,12 @@
 <header class="header-v2">
     <!-- Header desktop -->
     <div class="container-menu-desktop">
-        <div class="wrap-menu-desktop">
+        <div class="wrap-menu-desktop" style="background-color: #ffffff" >
             <nav class="limiter-menu-desktop">
                 <div class="left-header">
                     <!-- Logo desktop -->		
-                    <div class="logo">
-                        <a href="index-2.html"><img src="{{ ('public/images/logo.jpg') }}" alt="IMG-LOGO"></a>
+                    <div class="">
+                        <img style="height: 70px" src="{{ url('public/images/logo-fitbox.png') }}" alt="IMG">
                     </div>	
                 </div>
                 <div class="pull-right">
@@ -14,21 +14,41 @@
                     <div class="menu-desktop">
                         <ul class="main-menu">
                             <li class="active-menu">
-                                <a href="{{ route('home') }}">home</a>
+                                <a style="color: black" href="{{ route('home') }}">home</a>
                             </li>
-                            <li class="active-menu">
-                                <a href="{{ route('home') }}">menu</a>
-                                <ul class="sub-menu">
-                                    <li><a href="{{ route('ketodiet') }}">keto diet</a></li>
-                                    <li><a href="{{ route('musclegain') }}">muscle gain</a></li>
-                                    <li><a href="{{ route('healthyjuice') }}">healthy juice</a></li>
-                                    <li><a href="{{ route('salad') }}">salad</a></li>
-                                    <li><a href="{{ route('customizemeal') }}">customize meal</a></li>
-                                    <li><a href="{{ route('smoothies') }}">smoothies</a></li>
-                                </ul>
+                            <li>
+                                <a style="color: black" href="{{ route('aboutus') }}">about Us</a>
                             </li>
-                            <li><a href="{{ route('aboutus') }}">about Us</a></li>
-                            <li><a href="{{ route('contactus') }}">contact us</a></li>
+                            <li>
+                                <a style="color: black" href="{{ route('ketodiet') }}">keto diet</a>
+                            </li>
+                            <li>
+                                <a style="color: black" href="{{ route('musclegain') }}">muscle gain</a>
+                            </li>
+                            <li>
+                                <a style="color: black" href="{{ route('healthyjuice') }}">healthy juice</a>
+                            </li>
+                            <li>
+                                <a style="color: black" href="{{ route('salad') }}">salad</a>
+                            </li>
+                            <li>
+                                <a style="color: black" href="{{ route('customizemeal') }}">customize meal</a>
+                            </li>
+                            <li>
+                                <a style="color: black" href="{{ route('smoothies') }}">smoothies</a>
+                            </li>
+                            <!--                            <li class="active-menu">
+                                                            <a href="#" style="color: black">menu</a>
+                                                            <ul class="sub-menu">
+                                                                <li><a style="color: black" href="{{ route('ketodiet') }}">keto diet</a></li>
+                                                                <li><a style="color: black" href="{{ route('musclegain') }}">muscle gain</a></li>
+                                                                <li><a style="color: black" href="{{ route('healthyjuice') }}">healthy juice</a></li>
+                                                                <li><a style="color: black" href="{{ route('salad') }}">salad</a></li>
+                                                                <li><a style="color: black" href="{{ route('customizemeal') }}">customize meal</a></li>
+                                                                <li><a style="color: black" href="{{ route('smoothies') }}">smoothies</a></li>
+                                                            </ul>
+                                                        </li>-->
+                            <li><a style="color: black" href="{{ route('contactus') }}">contact us</a></li>
                         </ul>
                     </div>
                 </div>
@@ -39,7 +59,7 @@
     <div class="wrap-header-mobile">
         <!-- Logo moblie -->		
         <div class="logo-mobile">
-            <a href="index-2.html"><img src="{{ ('public/images/icons/logo-01.png') }}" alt="IMG-LOGO"></a>
+            <img style="height: 70px" src="{{ url('public/images/logo-fitbox.png') }}" alt="IMG">
         </div>
 
         <!-- Icon header -->
