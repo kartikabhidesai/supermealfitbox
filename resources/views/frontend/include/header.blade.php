@@ -33,5 +33,23 @@
     <!--===============================================================================================-->
     <link rel="stylesheet" type="text/css" href="{{ url('public/css/util.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ url('public/css/main.css') }}">
+    <link href="{{ url('public/css/toastr.min.css') }}" rel="stylesheet">
     <!--===============================================================================================-->
+    <script>
+        var baseurl = "{{ asset('/') }}";
+    </script>
+    @if (!empty($plugincss)) 
+    @foreach ($plugincss as $value) 
+    @if(!empty($value))
+    <link rel="stylesheet" href="{{ url('public/css/plugins/'.$value) }}">
+    @endif
+    @endforeach
+    @endif
+    @if (!empty($css)) 
+    @foreach ($css as $value) 
+    @if(!empty($value))
+    <link rel="stylesheet" href="{{ url('public/'.$value) }}">
+    @endif
+    @endforeach
+    @endif
 </head>
