@@ -1,7 +1,7 @@
 @extends('frontend.layout.app')
 @section('content')
 <div class="bg12">
-    <section class="how-overlay2 bg-img1" style="background-image: url(public/images/slider.jpg);">
+    <section class="how-overlay2 bg-img1" style="background-image: url(public/images/juice.png);">
         <div class="container">
             <div class="txt-center p-t-160 p-b-165">
                 <h2 class="txt-l-101 cl0 txt-center p-b-14 respon1">
