@@ -17,7 +17,7 @@ class contactusController extends Controller {
         if ($request->isMethod('post')) {
 
             $objSendSms = new SendSMS();
-            $sendSMS = $objSendSms->sendMailltesting();
+            $sendSMS = $objSendSms->sendMailltesting($request);
             $return['status'] = 'success';
             $return['message'] = 'Thank you we will contact you very soon...';
             $return['redirect'] = route('contactus');
