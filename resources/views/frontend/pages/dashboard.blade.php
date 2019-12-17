@@ -270,7 +270,7 @@
 </section>
 
 <!-- Why chose -->
-<section class="sec-whychose bg12 p-t-120">
+<section class="sec-whychose bg12 ">
     <div class="container">
         <div class="row">
             <div class="col-md-7 order-md-2">
@@ -341,9 +341,9 @@
                 </div>
             </div>
 
-            <div class="col-md-5 order-md-1">
+            <div class="col-md-5 order-md-1 p-t-1">
                 <div class="flex-b h-full">
-                    <div class="wrap-pic-max-w"><img src="{{ url('public/images/other-08.jpg') }}" alt="IMG"></div>
+                    <div class="wrap-pic-max-w"><img style="height: 600px" src="{{ url('public/images/dashboard.png') }}" alt="IMG"></div>
                 </div>
             </div>
         </div>
@@ -374,7 +374,7 @@
             <!--  -->
             <div class="flex-c-b how-pos6 dis-none-lg">
                 <div class="size-w-28 wrap-pic-max-s w-full-sm">
-                    <img src="{{ url('public/images/other-07.png') }}" alt="IMG">
+                    <img style="height: 600px" src="{{ url('public/images/demo.png') }}" alt="IMG">
                 </div>
             </div>
 
@@ -476,8 +476,38 @@
                         </p>
                     </div>
                 </div>
-            </div>
+                <div class="size-w-24 flex-col p-t-50 p-b-30 respon5">
+                    <div class="flex-w flex-str size-w-27 al-self-s w-full-lg">
+                        <div class="size-w-26 flex-r-m txt-right txt-m-109 cl3 respon6-01">
+                            Always Fresh
+                        </div>
 
+                        <div class="size-w-25 flex-r-m respon6-02">
+                            <img src="{{ url('public/images/icons/symbol-22.png') }}" alt="SYMBOL">
+                        </div>
+
+                        <p class="txt-right txt-s-101 cl6 p-t-7 respon6-03">
+                            It is a long established fact that a reader will be distracted by the readable.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="size-w-24 flex-col p-t-50 p-b-30 respon5">
+                    <div class="flex-w flex-str size-w-27 al-self-e w-full-lg">
+                        <div class="size-w-25 flex-m">
+                            <img src="{{ url('public/images/icons/symbol-25.png') }}" alt="SYMBOL">
+                        </div>
+
+                        <div class="size-w-26 flex-m txt-m-109 cl3">
+                            Premiun Quality
+                        </div>
+
+                        <p class="txt-s-101 cl6 p-t-7">
+                            It is a long established fact that a reader will be distracted by the readable.
+                        </p>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </section>

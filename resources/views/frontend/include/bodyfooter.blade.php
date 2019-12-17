@@ -53,19 +53,22 @@
                         <span class="size-w-11">
                             <i class="fa fa-instagram" aria-hidden="true"></i>
                         </span>
-
-                        <span class="size-w-12 p-t-1">
-                            fitbox_bhavnagar
-                        </span>
+                        <a href="https://www.instagram.com/fitbox_bhavnagar/">
+                            <span class="size-w-12 p-t-1">
+                                fitbox_bhavnagar
+                            </span>
+                        </a>
                     </li>
                     <li class="txt-s-101 cl6 flex-t p-b-10">
+
                         <span class="size-w-11">
                             <i class="fa fa-facebook-square" aria-hidden="true"></i>
                         </span>
-
-                        <span class="size-w-12 p-t-1">
-                            fitboxbhavnagar
-                        </span>
+                        <a href="https://www.facebook.com/fitboxbhavnagar">
+                            <span class="size-w-12 p-t-1">
+                                fitboxbhavnagar
+                            </span>
+                        </a>
                     </li>
                     <li class="txt-s-101 cl6 flex-t p-b-10">
                         <span class="size-w-11">
@@ -89,21 +92,21 @@
                         <ul>
                             <li class="p-b-10">
                                 <a href="{{ route('ketodiet') }}" class="txt-s-101 cl6 hov-cl10 trans-04 p-tb-5">
-                                    customize meal
+                                    Customize Meal
 
                                 </a>
                             </li>
 
                             <li class="p-b-10">
                                 <a href="{{ route('musclegain') }}" class="txt-s-101 cl6 hov-cl10 trans-04 p-tb-5">
-                                    muscle gain
+                                    Muscle Gain
 
                                 </a>
                             </li>
 
                             <li class="p-b-10">
                                 <a href="{{ route('healthyjuice') }}" class="txt-s-101 cl6 hov-cl10 trans-04 p-tb-5">
-                                    healthy juice
+                                    Healthy Juice
 
                                 </a>
                             </li>
@@ -113,19 +116,19 @@
                         <ul>
                             <li class="p-b-10">
                                 <a href="{{ route('salad') }}" class="txt-s-101 cl6 hov-cl10 trans-04 p-tb-5">
-                                    salad
+                                    Salad
 
                                 </a>
                             </li>
 
                             <li class="p-b-10">
                                 <a href="customizemeal" class="txt-s-101 cl6 hov-cl10 trans-04 p-tb-5">
-                                    keto diet
+                                    Keto Diet
                                 </a>
                             </li>
                             <li class="p-b-10">
                                 <a href="{{ route('smoothies') }}" class="txt-s-101 cl6 hov-cl10 trans-04 p-tb-5">
-                                    smoothies
+                                    Smoothies
                                 </a>
                             </li>
                         </ul>
