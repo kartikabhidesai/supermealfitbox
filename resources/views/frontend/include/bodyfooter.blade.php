@@ -54,7 +54,7 @@
                             <i class="fa fa-instagram" aria-hidden="true"></i>
                         </span>
                         <a href="https://www.instagram.com/fitbox_bhavnagar/">
-                            <span class="size-w-12 p-t-1">
+                            <span class="size-w-12 p-t-1" style="color: #666">
                                 fitbox_bhavnagar
                             </span>
                         </a>
@@ -65,7 +65,7 @@
                             <i class="fa fa-facebook-square" aria-hidden="true"></i>
                         </span>
                         <a href="https://www.facebook.com/fitboxbhavnagar">
-                            <span class="size-w-12 p-t-1">
+                            <span class="size-w-12 p-t-1" style="color: #666">
                                 fitboxbhavnagar
                             </span>
                         </a>

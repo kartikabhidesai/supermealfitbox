@@ -383,16 +383,16 @@
             <div class="flex-w flex-sb m-rl--15 m-rl-0-lg respon20">
                 <div class="size-w-24 flex-col p-t-50 p-b-30 respon5">
                     <div class="flex-w flex-str size-w-27 al-self-e w-full-lg">
-                        <div class="size-w-26 flex-r-m txt-right txt-m-109 cl3 respon6-01">
-                            100% Organic
+                        <div class="size-w-26 flex-r-m txt-right cl3 respon6-01">
+                            <b>You are what you Eat, so dont't be FAST CHEAP EASY, or FAKE</b>
                         </div>
 
                         <div class="size-w-25 flex-r-m respon6-02">
-                            <img src="{{ url('public/images/icons/symbol-20.png') }}" alt="SYMBOL">
+                            <img src="{{ url('public/images/icons/favicon.png') }}" alt="SYMBOL">
                         </div>
 
                         <p class="txt-right txt-s-101 cl6 p-t-7 respon6-03">
-                            It is a long established fact that a reader will be distracted by the readable.
+                            
                         </p>
                     </div>
                 </div>
@@ -403,20 +403,20 @@
                             <img src="{{ url('public/images/icons/symbol-23.png') }}" alt="SYMBOL">
                         </div>
 
-                        <div class="size-w-26 flex-m txt-m-109 cl3">
-                            Food Safety
+                        <div class="size-w-26 flex-m cl3">
+                            <b>"I DON'T NEED ALARM. MY PASSION WAKES ME UP!"</b>
                         </div>
 
                         <p class="txt-s-101 cl6 p-t-7">
-                            It is a long established fact that a reader will be distracted by the readable.
+                            
                         </p>
                     </div>
                 </div>
 
                 <div class="size-w-24 flex-col p-t-50 p-b-30 respon5">
                     <div class="flex-w flex-str size-w-27 al-self-c p-r-6 w-full-lg">
-                        <div class="size-w-26 flex-r-m txt-right txt-m-109 cl3 respon6-01">
-                            Family Healthy
+                        <div class="size-w-26 flex-r-m txt-right cl3 respon6-01">
+                            <b>"SIT BACK RELAX AND WATCH BURN OFF"</b>
                         </div>
 
                         <div class="size-w-25 flex-r-m respon6-02">
@@ -424,7 +424,7 @@
                         </div>
 
                         <p class="txt-right txt-s-101 cl6 p-t-7 respon6-03">
-                            It is a long established fact that a reader will be distracted by the readable.
+                            
                         </p>
                     </div>
                 </div>
@@ -435,20 +435,20 @@
                             <img src="{{ url('public/images/icons/symbol-24.png') }}" alt="SYMBOL">
                         </div>
 
-                        <div class="size-w-26 flex-m txt-m-109 cl3">
-                            Best Quality
+                        <div class="size-w-26 flex-m cl3">
+                            <b>"EVERY BITE YOU TAKE IS EITHER FIGHTING DISEASE OR FEEDING IT."</b>
                         </div>
 
                         <p class="txt-s-101 cl6 p-t-7">
-                            It is a long established fact that a reader will be distracted by the readable.
+                            
                         </p>
                     </div>
                 </div>
 
                 <div class="size-w-24 flex-col p-t-50 p-b-30 respon5">
                     <div class="flex-w flex-str size-w-27 al-self-s w-full-lg">
-                        <div class="size-w-26 flex-r-m txt-right txt-m-109 cl3 respon6-01">
-                            Always Fresh
+                        <div class="size-w-26 flex-r-m txt-right  cl3 respon6-01">
+                            <b>"SET PEACE OF MIND AS YOUR HIGHEST GOAL AND ORGANIZE YOUR LIFE AROUND IT"</b>
                         </div>
 
                         <div class="size-w-25 flex-r-m respon6-02">
@@ -456,7 +456,6 @@
                         </div>
 
                         <p class="txt-right txt-s-101 cl6 p-t-7 respon6-03">
-                            It is a long established fact that a reader will be distracted by the readable.
                         </p>
                     </div>
                 </div>
@@ -467,27 +466,25 @@
                             <img src="{{ url('public/images/icons/symbol-25.png') }}" alt="SYMBOL">
                         </div>
 
-                        <div class="size-w-26 flex-m txt-m-109 cl3">
-                            Premiun Quality
+                        <div class="size-w-26 flex-m  cl3">
+                            <b>"One Unhealthy Meal Won't Make You Unhealthy One Healthy Meal Won't Make You Healthy"</b>
                         </div>
 
                         <p class="txt-s-101 cl6 p-t-7">
-                            It is a long established fact that a reader will be distracted by the readable.
                         </p>
                     </div>
                 </div>
                 <div class="size-w-24 flex-col p-t-50 p-b-30 respon5">
                     <div class="flex-w flex-str size-w-27 al-self-s w-full-lg">
-                        <div class="size-w-26 flex-r-m txt-right txt-m-109 cl3 respon6-01">
-                            Always Fresh
+                        <div class="size-w-26 flex-r-m txt-right  cl3 respon6-01">
+                           <b>"Someone's story helped you. Your story will help someone."</b>
                         </div>
 
                         <div class="size-w-25 flex-r-m respon6-02">
-                            <img src="{{ url('public/images/icons/symbol-22.png') }}" alt="SYMBOL">
+                            <img src="{{ url('public/images/icons/symbol-20.png') }}" alt="SYMBOL">
                         </div>
 
                         <p class="txt-right txt-s-101 cl6 p-t-7 respon6-03">
-                            It is a long established fact that a reader will be distracted by the readable.
                         </p>
                     </div>
                 </div>
@@ -495,15 +492,14 @@
                 <div class="size-w-24 flex-col p-t-50 p-b-30 respon5">
                     <div class="flex-w flex-str size-w-27 al-self-e w-full-lg">
                         <div class="size-w-25 flex-m">
-                            <img src="{{ url('public/images/icons/symbol-25.png') }}" alt="SYMBOL">
+                            <img style="height: 65px" src="{{ url('public/images/icons/symbol-52.png') }}" alt="SYMBOL">
                         </div>
 
-                        <div class="size-w-26 flex-m txt-m-109 cl3">
-                            Premiun Quality
+                        <div class="size-w-26 flex-m  cl3">
+                            <b>"Historically humans evolved on high-protein high-fat diets."</b>
                         </div>
 
                         <p class="txt-s-101 cl6 p-t-7">
-                            It is a long established fact that a reader will be distracted by the readable.
                         </p>
                     </div>
                 </div>
