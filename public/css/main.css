@@ -1863,25 +1863,40 @@ input.num-product::-webkit-inner-spin-button {
 }
 
 .item-welcome.one {
-  top: 24%;
+  top: 30%;
   left: 0;
 }
 
 .item-welcome.two {
-  top: 0;
+  top: 5%;
   left: 25%;
 }
 
 .item-welcome.three {
-  top: 0;
+  top: 5%;
   right: 25%;
 }
 
 .item-welcome.four {
-  top: 24%;
+  top: 30%;
   right: 0;
 }
-
+.item-welcome.five {
+  top: 64%;
+  left: 0;
+}
+.item-welcome.six {
+  top: 64%;
+  right: 0;
+}
+.item-welcome.seven {
+  top: 97%;
+  left: 25%;
+}
+.item-welcome.eight {
+  top: 97%;
+  right: 25%;
+}
 /*---------------------------------------------*/
 .item-welcome-pic-dark {
   opacity: 0;

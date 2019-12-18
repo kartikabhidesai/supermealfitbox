@@ -79,9 +79,5 @@
             </div>
         </div>
     </div>
-    <section class="sec-subscribe bg13 p-t-15 p-b-15">
-        <div class="container">
-        </div>
-    </section>
 </div>
 @endsection

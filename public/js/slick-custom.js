@@ -379,8 +379,8 @@
             $(wrapSlick).find('.slick7').slick({
                 pauseOnFocus: false,
                 pauseOnHover: false,
-                slidesToShow: 2,
-                slidesToScroll: 2,
+                slidesToShow: 1,
+                slidesToScroll: 1,
                 fade: false,
                 infinite: false,
                 autoplay: false,

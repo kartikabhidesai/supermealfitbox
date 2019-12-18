@@ -1,3 +1,6 @@
+ <section class="sec-subscribe bg1 p-t-1 p-b-1">
+
+    </section>
 <footer class="bg12">
     <div class="container">
         <div class="wrap-footer flex-w row">

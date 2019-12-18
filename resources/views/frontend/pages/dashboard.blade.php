@@ -274,66 +274,69 @@
     <div class="container">
         <div class="row">
             <div class="col-md-7 order-md-2">
-                <div class="p-l-50 p-t-60 p-l-0-lg">
-                    <div class="size-a-1 flex-col-l-m p-b-65">
-                        <div class="txt-m-201 cl10 how-pos1-parent m-b-14">
-                            Quality Assurance
-
-                            <div class="how-pos1">
-                                <img src="{{ url('public/images/icons/symbol-02.png') }}" alt="IMG">
-                            </div>
-                        </div>
+                <div class="p-l-50 p-t-20 p-l-0-lg">
+                    <div class="size-a-1 flex-col-l-m">
+                        <!--                        <div class="txt-m-201 cl10 how-pos1-parent m-b-14">
+                                                    Quality Assurance
+                        
+                                                    <div class="how-pos1">
+                                                        <img src="{{ url('public/images/icons/symbol-02.png') }}" alt="IMG">
+                                                    </div>
+                                                </div>-->
 
                         <h3 class="txt-l-101 cl3 respon1">
-                            Why choose us
+                            Get active
                         </h3>
+                        <p class="txt-s-101 cl6 p-t-12">
+                            To be healthy along with healthy eating habits, you need regular physical activity. 
+                        </p>
                     </div>
 
-                    <div>
+                    <div class="p-t-20">
                         <div class="flex-w p-b-50">
                             <div class="size-w-22 wrap-pic-max-s flex-t-l p-t-5">
-                                <img src="{{ url('public/images/icons/symbol-15.png') }}" alt="SYMBOL">
+                                <img src="{{ url('public/images/icons/icon-grid1.png') }}" alt="SYMBOL">
                             </div>
 
                             <div class="size-w-23">
                                 <span class="txt-m-101 cl3">
-                                    100% Organic
+                                    Adults and children 
                                 </span>
 
                                 <p class="txt-s-101 cl6 p-t-12">
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been.
+                                    To maintain a healthy weight adults need at least 30 minutes a day of moderate activity on 5 days a week or 150 minutes a week. Children need to be active at a moderate to vigorous level for at least 60 minutes every day. 
                                 </p>
                             </div>
                         </div>
 
                         <div class="flex-w p-b-50">
                             <div class="size-w-22 wrap-pic-max-s flex-t-l p-t-5">
-                                <img src="{{ url('public/images/icons/symbol-16.png') }}" alt="SYMBOL">
+                                <img src="{{ url('public/images/icons/icon-grid1.png') }}" alt="SYMBOL">
                             </div>
 
                             <div class="size-w-23">
                                 <span class="txt-m-101 cl3">
-                                    Experienced
+                                    Moderate activity 
                                 </span>
 
                                 <p class="txt-s-101 cl6 p-t-12">
-                                    It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout
+                                    Moderate activity is any activity that causes your heart to beat slightly faster and your breathing to become noticeably heavier without feeling out of breath. Examples include brisk walking and cycling slower than 10mph. 
                                 </p>
                             </div>
                         </div>
 
                         <div class="flex-w p-b-50">
                             <div class="size-w-22 wrap-pic-max-s flex-t-l p-t-5">
-                                <img src="{{ url('public/images/icons/symbol-17.png') }}" alt="SYMBOL">
+                                <img src="{{ url('public/images/icons/icon-grid1.png') }}" alt="SYMBOL">
                             </div>
 
                             <div class="size-w-23">
                                 <span class="txt-m-101 cl3">
-                                    Fast delivery
+                                    Vigorous activity 
                                 </span>
 
                                 <p class="txt-s-101 cl6 p-t-12">
-                                    The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', 
+                                    Vigorous activity is any activity that causes a big increase in heart rate and your breathing becomes much faster and deeper leaving you feeling out of breath and sweaty. Examples include running and sports such as football or basketball.
                                 </p>
                             </div>
                         </div>
@@ -392,7 +395,7 @@
                         </div>
 
                         <p class="txt-right txt-s-101 cl6 p-t-7 respon6-03">
-                            
+
                         </p>
                     </div>
                 </div>
@@ -408,7 +411,7 @@
                         </div>
 
                         <p class="txt-s-101 cl6 p-t-7">
-                            
+
                         </p>
                     </div>
                 </div>
@@ -424,7 +427,7 @@
                         </div>
 
                         <p class="txt-right txt-s-101 cl6 p-t-7 respon6-03">
-                            
+
                         </p>
                     </div>
                 </div>
@@ -440,7 +443,7 @@
                         </div>
 
                         <p class="txt-s-101 cl6 p-t-7">
-                            
+
                         </p>
                     </div>
                 </div>
@@ -477,7 +480,7 @@
                 <div class="size-w-24 flex-col p-t-50 p-b-30 respon5">
                     <div class="flex-w flex-str size-w-27 al-self-s w-full-lg">
                         <div class="size-w-26 flex-r-m txt-right  cl3 respon6-01">
-                           <b>"Someone's story helped you. Your story will help someone."</b>
+                            <b>"Someone's story helped you. Your story will help someone."</b>
                         </div>
 
                         <div class="size-w-25 flex-r-m respon6-02">
@@ -651,14 +654,4 @@
     </div>
 </section>
 <!-- Subscribe -->
-<section class="sec-subscribe parallax100 how-overlay1 p-tb-2" style="background-image: {{ url('public/images/bg-03.jpg') }}">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-5 p-tb-15">
-                <div class="h-full flex-col-m">
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
 @endsection

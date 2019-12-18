@@ -39,8 +39,8 @@
         <h3 class="txt-m-201"><u><b>Benefits of Keto Diet</b></u></h3>
         <div class="row  p-t-15 p-b-15">
 
-            <div class="col-md-auto container bg1 txt-m-501">
-                <ul class="text-left" style="color: white">
+            <div class="col-md-auto container bg13 txt-m-501">
+                <ul class="text-left">
                     <li class="p-t-15"><i class="fa fa-leaf text-success" aria-hidden="true"></i></i> Best Therapy For Weight Lose.</li>
                     <li class="p-t-10"><i class="fa fa-leaf text-success" aria-hidden="true"></i></i> Improving Skin Glow.</li>
                     <li class="p-t-10"><i class="fa fa-leaf text-success" aria-hidden="true"></i></i> May Help Reduce Risk of Cancer.</li>
@@ -52,9 +52,5 @@
             </div>
         </div>
     </div>
-    <section class="sec-subscribe bg13 p-t-15 p-b-15">
-        <div class="container">
-        </div>
-    </section>
 </div>
 @endsection
