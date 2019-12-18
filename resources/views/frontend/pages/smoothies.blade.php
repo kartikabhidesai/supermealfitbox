@@ -18,22 +18,20 @@
             </div>
         </div>
     </section>
-    <section class="sec-subscribe bg13 p-t-15 p-b-15">
-        <div class="container">
-        </div>
-    </section>
-    <div class="p-t-50 p-b-15 text-center">
+    <div class="p-t-60 p-b-15 text-center">
         <h3 class="txt-m-201"><u><b>Smoothie Menu</b></u></h3>
-        <div class="row  p-t-15 p-b-15">
+        <div class="  p-t-45 p-b-15">
+            <div class="col-md-12">
+                <div class="row">
+                    <div class="col-md-2"></div>
+                    <div class="col-md-8 bg13 txt-m-501">
+                        <p class="p-t-15 p-b-10 txt-m-201"><b><span class="pull-left">Strawberry Vanilla Smoothie</span><span class="pull-right"> Rs. 135</span></span></b></p><br><br><hr>
 
-            <div class="col-md-auto container bg13">
-                <p class="p-t-25 p-b-10 txt-m-201"><b>Strawberry Vanilla Smoothie................................................................ Rs. 135</b></p>
-
-                <p class="p-t-25 p-b-25 txt-m-201"><b>Pina Colada Smoothie .......................................................................... Rs. 135</b></p>
+                        <p class="p-t-25 p-b-15 txt-m-201"><b><span class="pull-left">Pina Colada Smoothie</span><span class="pull-right"> Rs. 135</span></span></b></p><br><br>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
-
-    <!-- Subscribe -->
 </div>
 @endsection

@@ -21,9 +21,5 @@
         </div>
     </section>
 </div>
-<section class="sec-subscribe bg13 p-t-15 p-b-15">
-    <div class="container">
-    </div>
-</section>
 <div class="text-center"><h1>Content</h1></div>
 @endsection

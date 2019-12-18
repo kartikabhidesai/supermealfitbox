@@ -21,17 +21,9 @@
 </section>
 
 <!-- Welcome -->
-<section class="sec-welcome bg0 p-t-145 p-b-95">
+<section class="sec-welcome bg0 p-t-70 p-b-95">
     <div class="container">
-        <div class="size-a-1 flex-col-c-m p-b-90">
-            <div class="txt-center txt-m-201 cl10 how-pos1-parent m-b-14">
-                Healthy Food
-
-                <div class="how-pos1">
-                    <img src="{{ url('public/images/icons/symbol-02.png') }}" alt="IMG">
-                </div>
-            </div>
-
+        <div class="size-a-1 flex-col-c-m p-b-60">
             <h3 class="txt-center txt-l-101 cl3 respon1">
                 welcome to Super Meal Fit Box
             </h3>
@@ -217,7 +209,7 @@
 
 <!-- We do -->
 <section class="sec-wedo flex-w flex-str p-t-120 ">
-    <div class="size-w-12 bg12 p-t-60 p-b-20 p-rl-60 w-full-md p-rl-15-sm bg13">
+    <div class="size-w-12 p-t-60 p-b-20 p-rl-60 w-full-md p-rl-15-sm bg13">
         <div class="size-a-1 flex-col-c-m">
             <h3 class="txt-center txt-l-101 cl3 respon1">
                 Common problems and challenges
@@ -270,9 +262,9 @@
         <div class="wrap-slick7 m-rl--15">
             <div class="slick7">
                 <div class="item-slick7 p-rl-15">
-                    <div class="flex-w flex-sb-t  p-rl-33 p-t-33 p-b-30 hov7-parent p-rl-15-sm">
-                        <div class="flex-col-l p-t-10 w-full-sm ">
-                            <p class="txt-s-101 cl6 p-b-17 txt-m-201">
+                    <div class="flex-w flex-sb-t bg13 bo-all-2 bocl18 p-rl-33 p-t-33 p-b-30 hov7-parent p-rl-15-sm">
+                        <div class="flex-col-l p-t-10 w-full-sm">
+                            <p class="txt-s-101 cl6 p-b-17 txt-m-201 text-center">
                                 All people need to be aware of their personal nutritional goals and of how they can select an eating strategy to meet those goals.
                             </p>
                         </div>
@@ -280,18 +272,18 @@
                 </div>
 
                 <div class="item-slick7 p-rl-15">
-                    <div class="flex-w flex-sb-t  p-rl-33 p-t-33 p-b-30 hov7-parent p-rl-15-sm">
+                    <div class="flex-w flex-sb-t  p-rl-33 p-t-33 p-b-30 hov7-parent p-rl-15-sm bg13">
                         <div class="flex-col-l p-t-10 w-full-sm">
-                            <p class="txt-s-101 cl6 p-b-17 txt-m-201">
+                            <p class="txt-s-101 cl6 p-b-17 txt-m-201 text-center">
                                 Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure.
                             </p>
                         </div>
                     </div>
                 </div>
                 <div class="item-slick7 p-rl-15">
-                    <div class="flex-w flex-sb-t  p-rl-33 p-t-33 p-b-30 hov7-parent p-rl-15-sm">
+                    <div class="flex-w flex-sb-t  p-rl-33 p-t-33 p-b-30 hov7-parent p-rl-15-sm bg13">
                         <div class="flex-col-l p-t-10 w-full-sm">
-                            <p class="txt-s-101 cl6 p-b-17 txt-m-201">
+                            <p class="txt-s-101 cl6 p-b-17 txt-m-20 text-center1">
                                 Carbohydrate supplies the muscles and brain with the fuels they need to meet the stress of training and competition. People must be aware of what foods they should choose to meet their carbohydrate needs
                             </p>
                         </div>
@@ -299,19 +291,19 @@
                 </div>
 
                 <div class="item-slick7 p-rl-15">
-                    <div class="flex-w flex-sb-t p-rl-33 p-t-33 p-b-30 hov7-parent p-rl-15-sm">
+                    <div class="flex-w flex-sb-t p-rl-33 p-t-33 p-b-30 hov7-parent p-rl-15-sm bg13">
 
                         <div class="flex-col-l p-t-10 w-full-sm">
-                            <p class="txt-s-101 cl6 p-b-17 txt-m-201">
+                            <p class="txt-s-101 cl6 p-b-17 txt-m-201 text-center">
                                 Diet may have its biggest impact on training, and a good diet will help support consistent intensive training while limiting the risks of illness or injury. Good food choices can also promote adaptations to the training stimulus.
                             </p>
                         </div>
                     </div>
                 </div>
                 <div class="item-slick7 p-rl-15">
-                    <div class="flex-w flex-sb-t p-rl-33 p-t-33 p-b-30 hov7-parent p-rl-15-sm">
+                    <div class="flex-w flex-sb-t p-rl-33 p-t-33 p-b-30 hov7-parent p-rl-15-sm bg13">
                         <div class="flex-col-l p-t-10 w-full-sm">
-                            <p class="txt-s-101 cl6 p-b-17 txt-m-201">
+                            <p class="txt-s-101 cl6 p-b-17 txt-m-201 text-center">
                                 Getting the right amount of energy to stay healthy and to perform well is essential. Consuming too much energy increases body fat. If one do not eat enough, performance falls, injuries are more likely to occur, and results in illness.
                             </p>
                         </div>
@@ -319,10 +311,10 @@
                 </div>
 
                 <div class="item-slick7 p-rl-15">
-                    <div class="flex-w flex-sb-t p-rl-33 p-t-33 p-b-30 hov7-parent p-rl-15-sm">
+                    <div class="flex-w flex-sb-t p-rl-33 p-t-33 p-b-30 hov7-parent p-rl-15-sm bg13">
 
                         <div class="flex-col-l p-t-10 w-full-sm">
-                            <p class="txt-s-101 cl6 p-b-17 txt-m-201">
+                            <p class="txt-s-101 cl6 p-b-17 txt-m-201 text-center">
                                 People often covers a wide range of events which require varying inputs of technique, strength, power, speed and endurance. Everyone is also different, and there is no single diet that meets the needs of all at all times. Individual needs also change across the season and one must be flexible to accommodate this.
                             </p>
                         </div>
