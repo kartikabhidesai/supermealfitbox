@@ -14,7 +14,7 @@ class Sendmail extends Model {
 
         $pathToFile = $mailData['attachment'];
         $frommail = env('MAIL_USERNAME');
-        $mailsend = Mail::send($mailData['template'], ['data' => $mailData['data']], function ($m) use ($mailData, $pathToFile) {
+        $mailsend = Mail::send($mailData['template'], ['data' => $mailData['data']], function ($m) use ($mailData, $pathToFile,$frommail) {
                     $m->from($frommail, 'Supermealfitbox');
 
                     $m->to($mailData['mailto'], "Supermealfitbox")->subject($mailData['subject']);
