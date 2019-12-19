@@ -63,7 +63,7 @@
 
                         <div class="block1-content flex-col-c-m p-b-40">
                             <a href="product-single.html" class="txt-m-103 cl3 txt-center hov-cl10 trans-04 js-name-b1">
-                                Cauliflower
+                                Keto Diet
                             </a>
                         </div>
                     </div>
@@ -75,11 +75,11 @@
                 <!-- Block1 -->
                 <div class="block1">
                     <div class="block1-bg wrap-pic-w bo-all-1 bocl12 hov3 trans-04">
-                        <img src="{{ url('public/images/product-04.jpg') }}" alt="IMG">
+                        <img src="{{ url('public/images/small_muscle.jpg') }}" alt="IMG">
 
                         <div class="block1-content flex-col-c-m p-b-46">
                             <a href="product-single.html" class="txt-m-103 cl3 txt-center hov-cl10 trans-04 js-name-b1">
-                                Vegetable
+                                Muscle Gain
                             </a>
                         </div>
                     </div>
@@ -90,12 +90,12 @@
             <div class="item-slick5 p-all-15">
                 <!-- Block1 -->
                 <div class="block1">
-                    <div class="block1-bg wrap-pic-w bo-all-1 bocl12 hov3 trans-04">
-                        <img src="{{ url('public/images/product-05.jpg') }}" alt="IMG">
+                    <div class="block1-bg wrap-pic-w bo-all-1 bocl12 hov3 trans-04 p-b-100">
+                        <img style="height: 200px" src="{{ url('public/images/small_juice.png') }}" alt="IMG">
 
                         <div class="block1-content flex-col-c-m p-b-46">
                             <a href="product-single.html" class="txt-m-103 cl3 txt-center hov-cl10 trans-04 js-name-b1">
-                                Bell pepper
+                                Healthy Juice
                             </a>
                         </div>
                     </div>
@@ -106,12 +106,12 @@
             <div class="item-slick5 p-all-15">
                 <!-- Block1 -->
                 <div class="block1">
-                    <div class="block1-bg wrap-pic-w bo-all-1 bocl12 hov3 trans-04">
-                        <img src="{{ url('public/images/product-06.jpg') }}" alt="IMG">
+                    <div class="block1-bg wrap-pic-w bo-all-1 bocl12 hov3 trans-04 p-b-100">
+                        <img style="height: 200px" src="{{ url('public/images/small_salad.png') }}" alt="IMG">
 
                         <div class="block1-content flex-col-c-m p-b-46">
                             <a href="product-single.html" class="txt-m-103 cl3 txt-center hov-cl10 trans-04 js-name-b1">
-                                Beetroot
+                                Salad
                             </a>
                         </div>
                     </div>
@@ -121,12 +121,12 @@
             <div class="item-slick5 p-all-15">
                 <!-- Block1 -->
                 <div class="block1">
-                    <div class="block1-bg wrap-pic-w bo-all-1 bocl12 hov3 trans-04">
-                        <img src="{{ url('public/images/product-07.jpg') }}" alt="IMG">
+                    <div class="block1-bg wrap-pic-w bo-all-1 bocl12 hov3 trans-04 p-b-100">
+                        <img style="height: 200px" src="{{ url('public/images/small_customizemeal.png') }}" alt="IMG">
 
                         <div class="block1-content flex-col-c-m p-b-46">
-                            <a href="product-single.html" class="txt-m-103 cl3 txt-center hov-cl10 trans-04 js-name-b1">
-                                Cabbage
+                            <a  href="product-single.html" class="txt-m-103 cl3 txt-center hov-cl10 trans-04 js-name-b1">
+                                Customize Meal
                             </a>
                         </div>
                     </div>
@@ -137,12 +137,12 @@
             <div class="item-slick5 p-all-15">
                 <!-- Block1 -->
                 <div class="block1">
-                    <div class="block1-bg wrap-pic-w bo-all-1 bocl12 hov3 trans-04">
-                        <img src="{{ url('public/images/product-08.jpg') }}" alt="IMG">
+                    <div class="block1-bg wrap-pic-w bo-all-1 bocl12 hov3 trans-04 p-b-100">
+                        <img style="height: 200px" src="{{ url('public/images/small_smoothie.jpg') }}" alt="IMG">
 
                         <div class="block1-content flex-col-c-m p-b-46">
                             <a href="product-single.html" class="txt-m-103 cl3 txt-center hov-cl10 trans-04 js-name-b1">
-                                Tomato
+                                Smoothie
                             </a>
                         </div>
                     </div>
