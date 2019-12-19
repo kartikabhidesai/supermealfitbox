@@ -46,7 +46,7 @@
                     </li>
                 </ul>
             </div>
-            <div class="footer-col3 p-b-10 p-t-30 p-l-100 col-md-3">
+            <div class="footer-col3 p-b-10 p-t-30 p-l-50 col-md-3">
                 <div class="p-b-30">
                     <span class="txt-m-109 cl0">
                         Follow Us
