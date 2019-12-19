@@ -94,16 +94,17 @@
                     <div class="col-md-2"></div>
                     <div class="col-md-8 bg13 txt-m-501">
                         <ul class="text-left">
-                            <li class="p-t-15"><i class="fa fa-leaf text-success" aria-hidden="true"></i></i> Best Therapy For Weight Lose.</li>
-                            <li class="p-t-10"><i class="fa fa-leaf text-success" aria-hidden="true"></i></i> A daily salad will Aid your in take of health fats.</li>
-                            <li class="p-t-10"><i class="fa fa-leaf text-success" aria-hidden="true"></i></i> Build strong bones.</li>
-                            <li class="p-t-10"><i class="fa fa-leaf text-success" aria-hidden="true"></i></i> Protect Your Heart.</li>
-                            <li class="p-t-10"><i class="fa fa-leaf text-success" aria-hidden="true"></i></i> Natural Source of Fiber.</li>
-                            <li class="p-t-10"><i class="fa fa-leaf text-success" aria-hidden="true"></i></i> Protect Your Peepers.</li>
-                            <li class="p-t-10"><i class="fa fa-leaf text-success" aria-hidden="true"></i></i> Improve Muscle Performance.</li>
-                            <li class="p-t-10 p-b-15"><i class="fa fa-leaf text-success" aria-hidden="true"></i></i> Improve Skin Tone.</li>
+                            <li class="p-t-15"><i class="fa fa-leaf text-success" aria-hidden="true"></i>&nbsp;&nbsp; Best Therapy For Weight Lose.</li>
+                            <li class="p-t-10"><i class="fa fa-leaf text-success" aria-hidden="true"></i>&nbsp;&nbsp; A daily salad will Aid your in take of health fats.</li>
+                            <li class="p-t-10"><i class="fa fa-leaf text-success" aria-hidden="true"></i>&nbsp;&nbsp; Build strong bones.</li>
+                            <li class="p-t-10"><i class="fa fa-leaf text-success" aria-hidden="true"></i>&nbsp;&nbsp; Protect Your Heart.</li>
+                            <li class="p-t-10"><i class="fa fa-leaf text-success" aria-hidden="true"></i>&nbsp;&nbsp; Natural Source of Fiber.</li>
+                            <li class="p-t-10"><i class="fa fa-leaf text-success" aria-hidden="true"></i>&nbsp;&nbsp; Protect Your Peepers.</li>
+                            <li class="p-t-10"><i class="fa fa-leaf text-success" aria-hidden="true"></i>&nbsp;&nbsp; Improve Muscle Performance.</li>
+                            <li class="p-t-10 p-b-15"><i class="fa fa-leaf text-success" aria-hidden="true"></i>&nbsp;&nbsp; Improve Skin Tone.</li>
                         </ul>
                     </div>
+                    <div class="col-md-2"></div>
                 </div>
             </div>
         </div>
