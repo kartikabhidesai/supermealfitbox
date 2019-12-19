@@ -58,8 +58,8 @@
             <div class="item-slick5 p-all-15">
                 <!-- Block1 -->
                 <div class="block1">
-                    <div class="block1-bg wrap-pic-w bo-all-1 bocl12 hov3 trans-04">
-                        <img src="{{ url('public/images/product-03.jpg') }}" alt="IMG">
+                    <div class="block1-bg wrap-pic-w bo-all-1 bocl12 hov3 trans-04 p-b-100">
+                        <img style="height: 200px" src="{{ url('public/images/small_ketodiet.png') }}" alt="IMG">
 
                         <div class="block1-content flex-col-c-m p-b-40">
                             <a href="product-single.html" class="txt-m-103 cl3 txt-center hov-cl10 trans-04 js-name-b1">
@@ -74,8 +74,8 @@
             <div class="item-slick5 p-all-15">
                 <!-- Block1 -->
                 <div class="block1">
-                    <div class="block1-bg wrap-pic-w bo-all-1 bocl12 hov3 trans-04">
-                        <img src="{{ url('public/images/small_muscle.jpg') }}" alt="IMG">
+                    <div class="block1-bg wrap-pic-w bo-all-1 bocl12 hov3 trans-04 p-b-100">
+                        <img style="height: 200px" src="{{ url('public/images/small_muscle.jpg') }}" alt="IMG">
 
                         <div class="block1-content flex-col-c-m p-b-46">
                             <a href="product-single.html" class="txt-m-103 cl3 txt-center hov-cl10 trans-04 js-name-b1">

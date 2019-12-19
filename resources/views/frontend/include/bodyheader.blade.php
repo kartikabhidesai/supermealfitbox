@@ -5,7 +5,7 @@
             <nav class="limiter-menu-desktop">
                 <div class="left-header">
                     <!-- Logo desktop -->		
-                    <div class="">
+                    <div class="p-l-75">
                         <img style="height: 70px" src="{{ url('public/images/logo-fitbox.png') }}" alt="IMG">
                     </div>	
                 </div>

@@ -1,4 +1,4 @@
- <section class="sec-subscribe bg1 p-t-15 p-b-15">
+<section class="sec-subscribe bg1 p-t-15 p-b-15">
 
 </section>
 <footer class="bg1">
@@ -20,7 +20,7 @@
                         </span>
 
                         <span class="size-w-12 p-t-1">
-                            markrussell@example.com
+                            healthyfitbox@gmail.com
                         </span>
                     </li>
 
@@ -30,7 +30,8 @@
                         </span>
 
                         <span class="size-w-12 p-t-1">
-                            Bhavanagar
+                            Plot no 64 , jagannath park -2 
+                            Air port road subhashnagar , bhavngar
                         </span>
                     </li>
 
@@ -139,12 +140,12 @@
                 </div>
             </div>
         </div>
-        
+
         <div class="flex-w flex-sb-m bo-t-1 bocl14 p-tb-10">
             <span class="txt-s-101 cl0 p-tb-5 ">
                 Copyright © {{ date('Y') }} Super Meal Fit Box. All rights reserved.
             </span>
         </div>
-        
+
     </div>
 </footer>
