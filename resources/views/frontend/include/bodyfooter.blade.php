@@ -46,7 +46,7 @@
                     </li>
                 </ul>
             </div>
-            <div class="footer-col3 p-b-10 p-t-30 p-l-50 col-md-3">
+            <div class="footer-col3 p-b-10 p-t-30 p-l-100 col-md-3">
                 <div class="p-b-30">
                     <span class="txt-m-109 cl0">
                         Follow Us
@@ -86,57 +86,58 @@
                 </ul>
             </div>
             <div class="footer-col3 p-b-10 p-t-30 col-md-3">
-                <div class="p-b-30 text-center">
+                <div class="p-b-30 p-l-20">
                     <span class="txt-m-109 cl0">
                         My Menu
                     </span>
                 </div>
-                <div class="row">
+                <!--<div class="row">-->
                     <div class="col-md-7">
                         <ul>
-                            <li class="p-b-10">
+                            <li class="">
                                 <a href="{{ route('ketodiet') }}" class="txt-s-101 cl0 hov-cl10 trans-04 p-tb-5">
-                                    Customize Meal
+                                   -&nbsp; Customize Meal
 
                                 </a>
                             </li>
 
-                            <li class="p-b-10">
+                            <li class="">
                                 <a href="{{ route('musclegain') }}" class="txt-s-101 cl0 hov-cl10 trans-04 p-tb-5">
-                                    Muscle Gain
+                                    -&nbsp; Muscle Gain
 
                                 </a>
                             </li>
 
-                            <li class="p-b-10">
+                            <li class="">
                                 <a href="{{ route('healthyjuice') }}" class="txt-s-101 cl0 hov-cl10 trans-04 p-tb-5">
-                                    Healthy Juice
+                                   -&nbsp; Healthy Juice
 
                                 </a>
                             </li>
-                        </ul>
-                    </div>
-                    <div class="col-md-5">
-                        <ul>
-                            <li class="p-b-10">
+                            <li class="">
                                 <a href="{{ route('salad') }}" class="txt-s-101 cl0 hov-cl10 trans-04 p-tb-5">
-                                    Salad
+                                   -&nbsp; Salad
 
                                 </a>
                             </li>
 
-                            <li class="p-b-10">
+                            <li class="">
                                 <a href="customizemeal" class="txt-s-101 cl0 hov-cl10 trans-04 p-tb-5">
-                                    Keto Diet
+                                   -&nbsp; Keto Diet
                                 </a>
                             </li>
-                            <li class="p-b-10">
+                            <li class="">
                                 <a href="{{ route('smoothies') }}" class="txt-s-101 cl0 hov-cl10 trans-04 p-tb-5">
-                                    Smoothies
+                                   -&nbsp; Smoothies
                                 </a>
                             </li>
                         </ul>
                     </div>
+<!--                    <div class="col-md-5">
+                        <ul>
+                            
+                        </ul>
+                    </div>-->
                 </div>
             </div>
         </div>
