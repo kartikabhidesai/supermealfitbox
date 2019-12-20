@@ -21,17 +21,9 @@
 </section>
 
 <!-- Form Contact -->
-<section class="bg0 p-t-145 p-b-100">
+<section class="bg0 p-t-60 p-b-60">
     <div class="container">
         <div class="size-a-1 flex-col-c-m p-b-70">
-            <div class="txt-center txt-m-201 cl10 how-pos1-parent m-b-14">
-                Get In Touch
-
-                <div class="how-pos1">
-                    <img src="{{ url('public/images/icons/symbol-02.png') }}" alt="IMG">
-                </div>
-            </div>
-
             <h3 class="txt-center txt-l-101 cl3 respon1">
                 Leave us a message!
             </h3>
@@ -96,7 +88,7 @@
                 </h5>
 
                 <span class="txt-s-101 cl6 txt-center">
-                    8901 Marmora Road, Glasgow, D04 89GR
+                    Plot no 64 , jagannath park -2 Airport road subhashnagar , bhavngar
                 </span>
             </div>
         </div>
@@ -112,11 +104,7 @@
                 </h5>
 
                 <span class="txt-s-101 cl6 txt-center">
-                    (426) 460 8668
-                </span>
-
-                <span class="txt-s-101 cl6 txt-center">
-                    (317) 799 7654
+                    + 91 96 97 98 68 98
                 </span>
             </div>
         </div>
@@ -132,11 +120,7 @@
                 </h5>
 
                 <span class="txt-s-101 cl6 txt-center">
-                    kevin.price@example.com
-                </span>
-
-                <span class="txt-s-101 cl6 txt-center">
-                    ryanpatel@example.com
+                    healthyfitbox@gmail.com
                 </span>
             </div>
         </div>
@@ -152,7 +136,7 @@
                 </h5>
 
                 <span class="txt-s-101 cl6 txt-center">
-                    www.organive.store.com
+                    supermealfitbox.com
                 </span>
             </div>
         </div>
