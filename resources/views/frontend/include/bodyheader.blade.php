@@ -1,7 +1,7 @@
 <header class="header-v2">
     <!-- Header desktop -->
     <div class="container-menu-desktop">
-        <div class="wrap-menu-desktop" style="background-color: #ffffff" >
+        <div class="wrap-menu-desktop" style="background-color: #ffffff;height: 90px" >
             <nav class="limiter-menu-desktop">
                 <div class="left-header">
                     <!-- Logo desktop -->		
