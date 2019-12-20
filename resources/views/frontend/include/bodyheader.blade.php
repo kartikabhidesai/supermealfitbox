@@ -6,7 +6,7 @@
                 <div class="left-header">
                     <!-- Logo desktop -->		
                     <div class="p-l-75">
-                        <img style="height: 70px" src="{{ url('public/images/logo-fitbox.png') }}" alt="IMG">
+                        <img style="height: 100px" src="{{ url('public/images/logo-fitbox.png') }}" alt="IMG">
                     </div>	
                 </div>
                 <div class="pull-right">
