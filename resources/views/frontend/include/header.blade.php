@@ -2,8 +2,8 @@
     <title>Super Meal Fit Box</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!--===============================================================================================-->	
-    <link rel="icon" type="image/png" href="{{ url('public/images/icons/favicon.png') }}"/>
+    <!--===============================================================================================-->
+    <link rel="shortcut icon" type="image/x-icon" href="{{ url('public/images/logo-fitbox.png') }}" sizes="4x4">
     <!--===============================================================================================-->
     <link rel="stylesheet" type="text/css" href="{{ url('public/vendor/bootstrap/css/bootstrap.min.css') }}">
     <!--===============================================================================================-->
