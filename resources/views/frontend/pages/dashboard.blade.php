@@ -59,7 +59,7 @@
                 <!-- Block1 -->
                 <a href="{{ route('ketodiet') }}">
                     <div class="block1">
-                        <div class="block1-bg wrap-pic-w bo-all-1 bocl12 hov3 trans-04 p-b-100 p-t-10">
+                        <div class="block1-bg wrap-pic-w bo-all-1 bocl12 hov3 trans-04 p-b-90 p-t-10">
                             <img style="height: 200px" src="{{ url('public/images/small_ketodiet.png') }}" alt="IMG">
 
                             <div class="block1-content flex-col-c-m p-b-40">
