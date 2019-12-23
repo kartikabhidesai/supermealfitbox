@@ -7,7 +7,7 @@
                 <!-- Slide 1 -->
                 <li data-transition="fade">
                     <!--  -->
-                    <img src="{{ url('public/images/bg-slide-03.jpg') }}" alt="IMG-BG" class="rev-slidebg">
+                    <img src="{{ url('public/images/750.jpg') }}" alt="IMG-BG" class="rev-slidebg">
                     <h2 class="tp-caption tp-resizeme layer2" 
                         data-frames='[{"delay":500,"split":"chars","splitdelay":0.0,"speed":0.1,"frame":"0","from":"x:[105%];z:0;rX:45deg;rY:0deg;rZ:90deg;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
 
