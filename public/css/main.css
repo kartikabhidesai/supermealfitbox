@@ -880,7 +880,7 @@ a:hover {
 }
 
 /*---------------------------------------------*/
-@media (max-width: 1024px){
+@media (max-width: 1300px){
   .wrap-header-mobile {
     display: -webkit-box;
     display: -webkit-flex;
