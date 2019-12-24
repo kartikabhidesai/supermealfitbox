@@ -880,7 +880,7 @@ a:hover {
 }
 
 /*---------------------------------------------*/
-@media (max-width: 991px){
+@media (max-width: 1024px){
   .wrap-header-mobile {
     display: -webkit-box;
     display: -webkit-flex;
@@ -5091,4 +5091,14 @@ input.num-product::-webkit-inner-spin-button {
 
   /*---------------------------------------------*/
   
+}
+
+
+@media (max-height: 1024px) {
+  .hamburger-box {
+    position: relative;
+    display: inline-block;
+    width: 40px;
+    height: 24px;
+  }
 }
