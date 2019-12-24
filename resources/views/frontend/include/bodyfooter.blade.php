@@ -143,7 +143,7 @@
         </div>
 
         <div class="flex-w flex-sb-m bo-t-1 bocl14 p-tb-10">
-            <span class="txt-s-101 cl0 p-tb-5 ">
+            <span class=" container txt-s-101 cl0 p-tb-5 ">
                 Copyright © {{ date('Y') }} Super Meal Fit Box. All rights reserved.
             </span>
         </div>
